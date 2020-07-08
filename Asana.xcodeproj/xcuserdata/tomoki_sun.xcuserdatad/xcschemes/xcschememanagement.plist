@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Asana.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>AsanaApi.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B708525D24B4FC3000B6B1E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B708526E24B4FC3300B6B1E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B708527924B4FC3300B6B1E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B708529024B4FD1000B6B1E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B70852CF24B5F78D00B6B1E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
